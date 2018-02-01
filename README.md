@@ -11,3 +11,8 @@ DVSA Mobile Examiner Services (GDS Alpha phase)
 
 * `npm install`
 * `ionic serve`
+
+### Mac users
+
+To run the app in the simulator with live code reload, run the following:
+`ionic cordova emulate ios -lc`
