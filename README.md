@@ -15,4 +15,4 @@ DVSA Mobile Examiner Services (GDS Alpha phase)
 
 ### Manual Deployments
 
-* `ionic:deploy`
+* `npm run ionic:deploy`
